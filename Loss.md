@@ -1,0 +1,1 @@
+ Calculo de erro - é pego um valor real com o valor gerado pelo [[Perceptron]] e assim calcula a diferença

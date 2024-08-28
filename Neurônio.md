@@ -1,0 +1,3 @@
+![[Pasted image 20240821164213.png]]
+Os neurônios recebem informações através dos dendritos. Essa informação, na forma de sinais químicos, causa alterações na membrana do neurônio, que podem gerar um potencial de ação. Se esse potencial de ação for suficientemente forte, ele se propaga ao longo do axônio até as terminações nervosas. Nessas terminações, a informação é transmitida para outros neurônios ou para células efetoras (como células musculares ou glandulares) através das sinapses.
+Neurônios artificiais = [[Perceptron]]
